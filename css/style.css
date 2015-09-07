@@ -34,10 +34,29 @@ p {
 
 }
 
+.answer-is-bad{
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: white;
+	margin-top: 12em;
+
+
+}
+
 .question p {
 	font-size: 3em;
 	font-weight: 300;
 }
+
+.answer-is-bad p {
+	font-size: 2em;
+	font-weight: 300;
+}
+
+
 
 .start-button {
 	display: inline-block;
@@ -114,4 +133,31 @@ p {
 
 
 }
+
+.answer-is-bad .answer-button {
+	font-size: 20px;
+}
+
+
+/* Page Two */
+
+#page-two {
+	background-color: #75A1CE;
+	width: 100%;
+	min-height: 100%;
+	 background-attachment: fixed;
+
+}	 
+
+.answer-2 {
+	color:#3479BF;
+}
+
+
+
+
+
+
+
+
 
