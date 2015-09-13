@@ -253,6 +253,35 @@ p {
 	color: #CA6464;
 }
 
+/* Page 8 */
+
+#page-8 {
+	background-color: #5F3873;
+	width: 100%;
+	min-height: 100%;
+	background-attachment: fixed;
+
+}
+
+.answer-8 {
+	color: #4D2A5F;
+}
+
+
+/* Page 9 */
+
+#page-9 {
+	background-color: #439884;
+	width: 100%;
+	min-height: 100%;
+	background-attachment: fixed;
+
+}
+
+.answer-9 {
+	color: #255F51;
+}
+
 
 img.bg {
   /* Set rules to fill background */
