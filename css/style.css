@@ -256,7 +256,7 @@ p {
 /* Page 8 */
 
 #page-8 {
-	background-color: #5F3873;
+	background-color: #8A639E;
 	width: 100%;
 	min-height: 100%;
 	background-attachment: fixed;
@@ -282,7 +282,50 @@ p {
 	color: #255F51;
 }
 
+/* Page 10 */
 
+#page-10 {
+	background-color: #B5B747;
+	width: 100%;
+	min-height: 100%;
+	background-attachment: fixed;
+
+}
+
+.answer-10 {
+	color: #8B8E27;
+}
+
+/* Last question */
+
+#page-lastq {
+	background-color: #75A1CE;
+	width: 100%;
+	min-height: 100%;
+	background-attachment: fixed;
+
+}
+
+.answer-l {
+	color: #3479BF;
+}
+
+/* End */
+
+#page-end {
+	background-color: #B5B747;
+	width: 100%;
+	min-height: 100%;
+	background-attachment: fixed;
+
+}
+
+.done {
+	color:#B5B747;
+	font-size: 12px;
+	width: 50%;
+
+}
 img.bg {
   /* Set rules to fill background */
   min-height: 100%;
