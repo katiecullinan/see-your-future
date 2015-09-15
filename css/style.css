@@ -45,6 +45,8 @@ p {
 
 }
 
+
+
 .answer-is-bad{
 	width: 65%;
 	display: block;
@@ -113,7 +115,7 @@ p {
 /* Page One */
 
 #page-one {
-	background-color: #CAB04E;
+	background-color: #E0C55A;
 	width: 100%;
 	min-height: 100%;
 	background-attachment: fixed;
@@ -144,7 +146,7 @@ p {
 }
 
 .answer-1 {
-	color: #FF9933;
+	color: #F7A655;
 }
 
 .answer-button p{
@@ -285,7 +287,7 @@ p {
 /* Page 10 */
 
 #page-10 {
-	background-color: #B5B747;
+	background-color: #E0C55A;
 	width: 100%;
 	min-height: 100%;
 	background-attachment: fixed;
@@ -293,7 +295,7 @@ p {
 }
 
 .answer-10 {
-	color: #8B8E27;
+	color: #F7A655;
 }
 
 /* Last question */
@@ -313,7 +315,7 @@ p {
 /* End */
 
 #page-end {
-	background-color: #B5B747;
+	background-color: #36264A;
 	width: 100%;
 	min-height: 100%;
 	background-attachment: fixed;
@@ -321,7 +323,7 @@ p {
 }
 
 .done {
-	color:#B5B747;
+	color: #593F79;
 	font-size: 12px;
 	width: 50%;
 
